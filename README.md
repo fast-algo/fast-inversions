@@ -3,7 +3,7 @@
 Calculating the number of inversions in an array or dataset is a measure of how numerically ordered or unordered the dataset is.
 This can be useful when comparing datasets for example in collaborative filtering.
 
-I've provided results below for the naive approach which asyptotically is O(n^2) and also a smarter divide and conquer approach which is O(nlog(n)).
+I've provided results below for the naive approach which asymptotically is O(n^2) and also a smarter divide and conquer approach which is O(nlog(n)).
 
 Compiler optimisations (denoted by \*\) make a huge difference on the naive O(n^2) approach.
 
